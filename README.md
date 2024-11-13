@@ -1,4 +1,4 @@
-#This is a toralizer library for connecting to a host through TOR proxy
+# This is a toralizer library for connecting to a host through TOR proxy
 
 
 ## Requirements:
